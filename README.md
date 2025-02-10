@@ -5,5 +5,5 @@ You will see four folders. Each folder contains jupyter notebooks of the code wr
   - IsoSeq: This contains the underlying code for how we were phasing long reads to the assemblies.
   - MEI: This contains scripts for analyzing the MEI (Mobile Element Insertions) call sets.
   - MHC: Code for analyzing the Major Histocompatibility Complex (HLA-DRB, and RCCX analyses specifically).
-  - SMN: Code to analyze SMN loci gene copy numbers. 
+  - SMN: Code to analyze SMN (also NAIP, SERF1, GTF2H2)  gene copy numbers. 
 
