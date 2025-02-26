@@ -16,5 +16,24 @@ You will see four folders. Each folder contains jupyter notebooks of the code wr
     -   Total_T2T_INS_and_REF_INS_Calls_Heatmap-Copy1.ipynb
     -   Total_hg38_INS_and_REF_INS_Calls_Heatmap.ipynb
   - MHC: Code for analyzing the Major Histocompatibility Complex (HLA-DRB, and RCCX analyses specifically).
+    - DR1_Haplotype_Recombination.ipynb
+    - DR8_Recombination.ipynb
+    - DRA_Check.ipynb
+    - DRB_Pull_Sequence_Code.ipynb
+    - HGSVC3_DR_Haplotype_Alignment_SNVs.ipynb
+    - Par1_Clean_HLA_HeaderNames-Copy1.ipynb
+    - Part1_Clean_HLA_HeaderNames.ipynb
+    - Part2_a_Primate_Human_C4_CYP21A2_RepeatMaskerRuns_Jan2024.ipynb
+    - Part2_allGeneLocations_MHCLocus_December122023-DRB_Specific-Final_BuildsDataframes_Important.ipynb
+    - Part3_BuildTrainingData_Allchr6Gene_RepeatMasker_ReadIn-Copy1.ipynb
+    - Part3_PullC4_CYP21A2_Sequences.ipynb
+    - Part4.1_EDITED_Human_Visualizations-gene_simplified-Copy1.ipynb
+    - Part4.1_Human_Visualizations-gene_simplified.ipynb
+    - Part4_Human_Primate_C4_CYP21A2_Visualizations-withAllRepeats.ipynb
+    - Part4_Human_RCCX_Visualizations-withAllRepeats.ipynb
+    - Part5_Human_Primate_C4_CYP21A2_Visualizations-Nucleotide.ipynb
+    - Part6_Human_Primate_C4_CYP21A2_Visualizations-AminoAcid.ipynb
+    - Part7_HLA-C4_Network_Nucleotide_Master.ipynb
+    - Part8_HLA-C4_VariantTable-November-VariantProblem.ipynb
   - SMN: Code to analyze SMN (also NAIP, SERF1, GTF2H2)  gene copy numbers. 
 
