@@ -3,7 +3,7 @@ Code written for a subset of analyses found in the HGSVC3 manuscript (https://ww
 
 You will see four folders. Each folder contains jupyter notebooks of the code written for those sections (in no particular order). 
   - __IsoSeq__: This contains the underlying code for how we were phasing long reads to the assemblies.
-    -   PhasingReads_HGSVC3_WorkingVersion.ipynb
+    -   PhasingReads_HGSVC3_WorkingVersion.ipynb - proto read phaser which was later put together onto the Clemson HPC.
   - __MEI__: This contains scripts for analyzing the MEI (Mobile Element Insertions) call sets.
     -   CleanDataset_DeduplicateCalls.ipynb - code for additional callset refinement (deduplicating PAV calls (e.g., two SVAs at same site with variable VNTRs but same element become one call) etc.).
     -   CompareOrthogonalCallset.ipynb - comparing against MELT LRA callset for concordance.
