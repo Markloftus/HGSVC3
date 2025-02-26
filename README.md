@@ -20,7 +20,6 @@ You will see four folders. Each folder contains jupyter notebooks of the code wr
     - DR8_Recombination.ipynb - work I did to manually track down breakpoints. 
     - DRA_Check.ipynb - just some code to look at variance in the DRA sequences. 
     - DRB_Pull_Sequence_Code.ipynb - read in the DR haplotype information and pull the region sequences. 
-    - HGSVC3_DR_Haplotype_Alignment_SNVs.ipynb
     - Par1_Clean_HLA_HeaderNames-Copy1.ipynb
     - Part1_Clean_HLA_HeaderNames.ipynb
     - Part2_a_Primate_Human_C4_CYP21A2_RepeatMaskerRuns_Jan2024.ipynb
