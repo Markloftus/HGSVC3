@@ -34,5 +34,5 @@ You will see four folders. Each folder contains jupyter notebooks of the code wr
     - Part7_HLA-C4_Network_Nucleotide_Master.ipynb - C4 Network analysis
     - Part8_HLA-C4_VariantTable-November-VariantProblem.ipynb - C4 coding variant table
   - __SMN__: Code to analyze SMN (also NAIP, SERF1, GTF2H2)  gene copy numbers.
-    - SMN_CopyNumbers.ipynb
+    - SMN_CopyNumbers.ipynb - functional full length gene copy numbers as well as truncated/non-functional gene copy numbers across the HGSVC3 samples. 
 
