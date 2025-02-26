@@ -9,7 +9,7 @@ You will see four folders. Each folder contains jupyter notebooks of the code wr
     -   CompareOrthogonalCallset.ipynb - comparing against MELT LRA callset for concordance.
     -   HGSVC3_Centromere_MEIs_Chr2.ipynb - MEIs on the chr2 centromere/initial visualization of insertion locations. 
     -   HGSVC3_Centromere_MEIs_Chr20-New.ipynb - MEIs on the chr20 centromere/initial visualization of insertion locations. 
-    -   HGSVC3_Filter_PALMER_and_Konkel_Unique_Calls.ipynb
+    -   HGSVC3_Filter_PALMER_and_Konkel_Unique_Calls.ipynb - run proto-L1ME-AID on PALMER calls to check for sequence quality. Filter out calls missing tails, older elements, etc. 
     -   Part1_HGSVC3_Filter_Calls_06_17-2024.ipynb
     -   Part2_HGSVC3_MERGE_MEI_Callsets-T2T_Merge.ipynb
     -   Part2_HGSVC3_MERGE_MEI_Callsets-hg38Merge.ipynb
