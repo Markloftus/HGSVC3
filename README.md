@@ -5,7 +5,7 @@ You will see four folders. Each folder contains jupyter notebooks of the code wr
   - __IsoSeq__: This contains the underlying code for how we were phasing long reads to the assemblies.
     -   PhasingReads_HGSVC3_WorkingVersion.ipynb - proto read phaser which was later put together onto the Clemson HPC.
   - __MEI__: This contains scripts for analyzing the MEI (Mobile Element Insertions) call sets.
-    -   CleanDataset_DeduplicateCalls.ipynb - code for additional callset refinement (deduplicating PAV calls (e.g., two SVAs at same site with variable VNTRs but same element become one call) etc.).
+    -   ######CleanDataset_DeduplicateCalls.ipynb###### - code for additional callset refinement (deduplicating PAV calls (e.g., two SVAs at same site with variable VNTRs but same element become one call) etc.).
     -   CompareOrthogonalCallset.ipynb - comparing against MELT LRA callset for concordance.
     -   HGSVC3_Centromere_MEIs_Chr2.ipynb - MEIs on the chr2 centromere/initial visualization of insertion locations. 
     -   HGSVC3_Centromere_MEIs_Chr20-New.ipynb - MEIs on the chr20 centromere/initial visualization of insertion locations. 
