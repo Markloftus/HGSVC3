@@ -21,8 +21,8 @@ You will see four folders. Each folder contains jupyter notebooks of the code wr
     - DRA_Check.ipynb - just some code to look at variance in the DRA sequences. 
     - DRB_Pull_Sequence_Code.ipynb - read in the DR haplotype information and pull the region sequences. 
     - Part1_Clean_HLA_HeaderNames.ipynb - 'cleans' the contig names so that repeatmasker would not have issues later on. 
-    - Part2_a_Primate_Human_C4_CYP21A2_RepeatMaskerRuns_Jan2024.ipynb
-    - Part2_allGeneLocations_MHCLocus_December122023-DRB_Specific-Final_BuildsDataframes_Important.ipynb
+    - Part2_a_Primate_Human_C4_CYP21A2_RepeatMaskerRuns_Jan2024.ipynb - filter repeatmasker gene exons info. 
+    - Part2_allGeneLocations_MHCLocus_December122023-DRB_Specific-Final_BuildsDataframes_Important.ipynb - read in the Li labs DRB gene only data and combine with the repeatmasker DRB gene/pseudogene data.
     - Part3_BuildTrainingData_Allchr6Gene_RepeatMasker_ReadIn-Copy1.ipynb
     - Part3_PullC4_CYP21A2_Sequences.ipynb
     - Part4.1_EDITED_Human_Visualizations-gene_simplified-Copy1.ipynb
