@@ -1,7 +1,7 @@
 # HGSVC3
 Code written for a subset of analyses found in the HGSVC3 manuscript (https://www.biorxiv.org/content/10.1101/2024.09.24.614721v1). 
 
-You will see four folders. Each folder contains jupyter notebooks of the code written for those sections. 
+You will see four folders. Each folder contains jupyter notebooks of the code written for those sections (in no particular order). 
   - __IsoSeq__: This contains the underlying code for how we were phasing long reads to the assemblies.
     -   PhasingReads_HGSVC3_WorkingVersion.ipynb
   - __MEI__: This contains scripts for analyzing the MEI (Mobile Element Insertions) call sets.
