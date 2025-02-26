@@ -16,8 +16,8 @@ You will see four folders. Each folder contains jupyter notebooks of the code wr
     -   Total_T2T_INS_and_REF_INS_Calls_Heatmap-Copy1.ipynb - visualize with a heatmap the T2T-CHM13 reference and sample specific MEI calls. 
     -   Total_hg38_INS_and_REF_INS_Calls_Heatmap.ipynb  - visualize with a heatmap the GRCh38 reference and sample specific MEI calls. 
   - __MHC__: Code for analyzing the Major Histocompatibility Complex (HLA-DRB, and RCCX analyses specifically).
-    - DR1_Haplotype_Recombination.ipynb
-    - DR8_Recombination.ipynb
+    - DR1_Haplotype_Recombination.ipynb - work I did to manually track down breakpoints. 
+    - DR8_Recombination.ipynb - work I did to manually track down breakpoints. 
     - DRA_Check.ipynb
     - DRB_Pull_Sequence_Code.ipynb
     - HGSVC3_DR_Haplotype_Alignment_SNVs.ipynb
