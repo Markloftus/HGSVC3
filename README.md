@@ -9,12 +9,12 @@ You will see four folders. Each folder contains jupyter notebooks of the code wr
     -   CompareOrthogonalCallset.ipynb - comparing against MELT LRA callset for concordance.
     -   HGSVC3_Centromere_MEIs_Chr2.ipynb - MEIs on the chr2 centromere/initial visualization of insertion locations. 
     -   HGSVC3_Centromere_MEIs_Chr20-New.ipynb - MEIs on the chr20 centromere/initial visualization of insertion locations. 
-    -   HGSVC3_Filter_PALMER_and_Konkel_Unique_Calls.ipynb - run proto-L1ME-AID on PALMER calls to check for sequence quality. Filter out calls missing tails, older elements, etc. 
-    -   Part1_HGSVC3_Filter_Calls_06_17-2024.ipynb
-    -   Part2_HGSVC3_MERGE_MEI_Callsets-T2T_Merge.ipynb
-    -   Part2_HGSVC3_MERGE_MEI_Callsets-hg38Merge.ipynb
-    -   Total_T2T_INS_and_REF_INS_Calls_Heatmap-Copy1.ipynb
-    -   Total_hg38_INS_and_REF_INS_Calls_Heatmap.ipynb
+    -   HGSVC3_Filter_PALMER_and_Konkel_Unique_Calls.ipynb - run proto-L1ME-AID on PALMER only calls to check for sequence quality. Filter out calls missing tails, older elements, etc. 
+    -   Part1_HGSVC3_Filter_Calls_06_17-2024.ipynb - initial filtering of PAV MEI calls. 
+    -   Part2_HGSVC3_MERGE_MEI_Callsets-T2T_Merge.ipynb - Merge PALMER T2T-CHM13 calls with L1ME-AID+PAV T2T-CHM13 calls.
+    -   Part2_HGSVC3_MERGE_MEI_Callsets-hg38Merge.ipynb - Merge PALMER GRCh38 calls with L1ME-AID+PAV GRCh38 calls.
+    -   Total_T2T_INS_and_REF_INS_Calls_Heatmap-Copy1.ipynb - visualize with a heatmap the T2T-CHM13 reference and sample specific MEI calls. 
+    -   Total_hg38_INS_and_REF_INS_Calls_Heatmap.ipynb  - visualize with a heatmap the GRCh38 reference and sample specific MEI calls. 
   - __MHC__: Code for analyzing the Major Histocompatibility Complex (HLA-DRB, and RCCX analyses specifically).
     - DR1_Haplotype_Recombination.ipynb
     - DR8_Recombination.ipynb
